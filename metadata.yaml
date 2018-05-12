@@ -1,0 +1,39 @@
+_repo: KratesEen-Levensbeeld_17549
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Braakensiek, Joh. (Johan Coenraad)
+    alias: Braakensiek, Johan Coenraad
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '6460'
+    url: http://www.gutenberg.org/2009/agents/6460
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Braakensiek
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maurik, Justus van
+    aliases:
+    - Van Maurik, Justus
+    - Maurik, Justus van, jr
+    birthdate: 1846
+    deathdate: 1904
+    gutenberg_agent_id: '4468'
+    url: http://www.gutenberg.org/2009/agents/4468
+    wikipedia: http://nl.wikipedia.org/wiki/Justus_van_Maurik_jr.
+description: ''
+gutenberg_issued: '2006-01-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17549'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Fiction'
+title: 'Krates: Een Levensbeeld'
+url: http://www.gutenberg.org/ebooks/17549
