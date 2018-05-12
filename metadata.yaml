@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4468
     wikipedia: http://nl.wikipedia.org/wiki/Justus_van_Maurik_jr.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17549#KratesEen-Levensbeeld
 gutenberg_issued: '2006-01-19'
 gutenberg_type: Text
 identifiers:
